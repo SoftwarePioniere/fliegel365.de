@@ -310,3 +310,18 @@ header.masthead p {
 .btn-primary:active, .btn-primary:focus {
   box-shadow: 0 0 0 0.2rem rgba(240, 95, 64, 0.5) !important;
 }
+
+#page-top > header > div.container {
+  background-color: rgba(0, 0, 0, 0.22);
+  width: 55%;
+  padding-top: 32px;
+}
+
+#footernavigation {
+  padding: 0px;
+  padding-bottom: 20px;
+}
+
+h6 {
+  font-weight: bold;
+}
