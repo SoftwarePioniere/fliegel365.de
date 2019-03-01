@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: https://fliegel365-prod-start.azurewebsites.net
