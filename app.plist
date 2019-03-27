@@ -1,0 +1,46 @@
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+    <plist version="1.0">
+    <dict>
+      <key>items</key>
+      <array>
+       <dict>
+         <key>assets</key>
+          <array>
+            <dict>
+              <key>kind</key>
+              <string>software-package</string>
+              <key>url</key>
+              <string>https://fliegel365.de/app.ipa</string>
+            </dict>
+            <dict>
+              <key>kind</key>
+              <string>display-image</string>
+              <key>needs-shine</key>
+              <true/>
+              <key>url</key>
+              <string>https://fliegel365.de/icon-57-57.png</string>
+            </dict>
+            <dict>
+              <key>kind</key>
+              <string>full-size-image</string>
+              <key>needs-shine</key>
+              <true/>
+              <key>url</key>
+              <string>https://fliegel365.de/icon-167-167.png</string>
+            </dict>
+          </array>
+          <key>metadata</key>
+          <dict>
+            <key>bundle-identifier</key>
+            <string>f365.container.mobile.prod</string>
+            <key>kind</key>
+            <string>software</string>
+            <key>subtitle</key>
+            <string>F365 Container PROD</string>
+            <key>title</key>
+            <string>F365 Container PROD</string>
+          </dict>
+        </dict>
+      </array>
+    </dict>
+    </plist>
